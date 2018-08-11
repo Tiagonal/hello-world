@@ -1,0 +1,11 @@
+<p>Prezado cliente!</p>
+
+<p>Seu&nbsp;e-mail foi recebido sob o protocolo&nbsp;<strong>[!TICKETNUMBER]</strong>,&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Atenciosamente,</p>
+
+<p><strong>Central de Relacionamento</strong></p>
+
+<p>&nbsp;</p>
